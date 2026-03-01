@@ -1,0 +1,31 @@
+In JS 
+to declare variables we use let or var
+currently we only use let
+for some reason JS did not have a scop at the beginning
+meaning no block scope
+basically everything was global
+that was the problem with var
+thats why let is used
+var is still used though but has problems with block and functional scope
+you dont even need to writ let either but it is not considered a good practice
+
+
+"use strict" treats all code as per the newer standard
+but its not necessary to write
+js has it by default
+
+cannot use alert
+it can only be used on the browser not on node
+
+null is a standalone value or a type 
+representation of an empty value
+example temperature from a website
+0 is an actual value so null is used to separate it
+
+undefined when value is not assigned to a value
+
+there is also something called as symbol
+
+there is also an object
+
+NaN is weird
