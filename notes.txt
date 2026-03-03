@@ -29,3 +29,13 @@ there is also something called as symbol
 there is also an object
 
 NaN is weird
+
+
+Memory in JavaScript
+Stack memory and heap memory
+for all primitive types stack is used
+for non primitive types heaps is used
+stack me object ki copy hoti hai
+heap me reference
+//node file.js to run any single file
+ 
