@@ -38,4 +38,5 @@ for non primitive types heaps is used
 stack me object ki copy hoti hai
 heap me reference
 //node file.js to run any single file
+ //need to get better and have a real perfect day where everything is done with a 100% effort
  
