@@ -1,13 +1,13 @@
 In JS 
 to declare variables we use let or var
 currently we only use let
-for some reason JS did not have a scop at the beginning
+for some reason JS did not have a scope at the beginning
 meaning no block scope
 basically everything was global
 that was the problem with var
 thats why let is used
 var is still used though but has problems with block and functional scope
-you dont even need to writ let either but it is not considered a good practice
+you dont even need to write let either but it is not considered a good practice
 
 
 "use strict" treats all code as per the newer standard
@@ -39,4 +39,5 @@ stack me object ki copy hoti hai
 heap me reference
 //node file.js to run any single file
  //need to get better and have a real perfect day where everything is done with a 100% effort
- 
+ //completed a lc question on my own will solve one more and then read SICP
+
