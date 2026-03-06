@@ -41,3 +41,4 @@ heap me reference
  //need to get better and have a real perfect day where everything is done with a 100% effort
  //completed a lc question on my own will solve one more and then read SICP
 
+//not a cheat commit I will study today no matter what
