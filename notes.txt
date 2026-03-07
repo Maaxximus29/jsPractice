@@ -42,3 +42,4 @@ heap me reference
  //completed a lc question on my own will solve one more and then read SICP
 
 //not a cheat commit I will study today no matter what
+Need to come up with a good project idea
