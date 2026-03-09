@@ -24,3 +24,4 @@ console.log(booleanAnotherIsLoggedIn)//false for empty string true if it has a v
  console.log(stringNumber)// 33 output but it will be a string
  console.log("I can do this and I will do it no matter what")
  console.log("code forces")
+ console.log("last cheat commit")
