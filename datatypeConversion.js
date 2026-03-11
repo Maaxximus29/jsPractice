@@ -25,3 +25,4 @@ console.log(booleanAnotherIsLoggedIn)//false for empty string true if it has a v
  console.log("I can do this and I will do it no matter what")
  console.log("code forces")
  console.log("last cheat commit for real this time")
+ console.log("will begin today no matter what")
