@@ -15,3 +15,5 @@ console.log(null == 0)//false
 // same issues with undefined but it will give out false for all the above three operations
 // === strict check meaning it checks the value as well
 console.log("2" === 2) // no conversion here 
+console.log("this is a test")
+console.log("Typing from my new keyboard")
