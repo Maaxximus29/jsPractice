@@ -17,3 +17,4 @@ console.log(null == 0)//false
 console.log("2" === 2) // no conversion here 
 console.log("this is a test")
 console.log("Typing from my new keyboard")
+c
