@@ -5,7 +5,7 @@ print("hell0")
     # well if it exists then add += 1 if it doesnt then just add that prefix? not sure wull seee tomorrow
     #Problem 2193A codeforces dbmb and the array
     # this does look nice to be fair 
-    uInput = int(input())
+uInput = int(input())
 for _ in range(uInput):
     n = int(input())
     a = [int(x) for x in input().split()]
